@@ -8,7 +8,12 @@
     <name>SEPA PAIN Generator</name>
     <description>Library for creating SEPA PAIN files</description>
     <url>http://www.chess-ix.com</url>
-
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>http://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
 
     <dependencies>
         <dependency>
